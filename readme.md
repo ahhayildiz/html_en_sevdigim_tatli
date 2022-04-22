@@ -1,5 +1,6 @@
-![index](https://user-images.githubusercontent.com/57774389/164741727-82d1918a-cf3f-4764-8cee-4f707e260d3f.png)
-![tarif](https://user-images.githubusercontent.com/57774389/164741244-ca46d14c-c33b-4c0f-912e-44757d7dd3a1.png)
+![hazırlanis](https://user-images.githubusercontent.com/57774389/164751076-0b9d435c-e4f6-4bbd-8ec9-ee27d1dd93de.png)
+![anasayfa](https://user-images.githubusercontent.com/57774389/164751082-bbd8c821-045e-451c-918c-7fdd20efe4fe.png)
+
 ```
 https://app.patika.dev 
 ```
